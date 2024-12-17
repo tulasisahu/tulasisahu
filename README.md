@@ -106,7 +106,7 @@ DevOps Engineer  | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | 
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=white" />
 </a>
 
-<a href="https://github.com/chxtan">
+<a href="https://github.com/Tks-Devops">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
